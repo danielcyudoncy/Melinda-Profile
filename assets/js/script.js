@@ -57,12 +57,12 @@ $(this).addClass("active");
 $('#typewriteText').typewrite({
     speed: 8,
     actions: [
-      {type: 'Love God. Love Each Other' },
+      {type: 'Art Nourishes the Soul' },
       {delay: 1000},
       {remove: {num: 26, type: ''}},
-      {type: ' No Matter Who You are'},
+      {type: ' Art Nourishes the Soul'},
       {delay: 1000},
       {remove: {num: 21, type: ''}},
-      {type: 'Love God. Love Each Other'},
+      {type: 'Art Nourishes the Soul'},
     ]
   });
