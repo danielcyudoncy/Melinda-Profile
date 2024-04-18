@@ -624,9 +624,9 @@ footer .inner .foot-news ul li i {
 }
 
 .slider {
-  background-image: url(../images/slider/hero_pix.png);
+  background-image: url(../images/slider/mimi.png);
   background-repeat: round;
-  max-width: fit-content;
+  max-width: 100%;
 
 
 }

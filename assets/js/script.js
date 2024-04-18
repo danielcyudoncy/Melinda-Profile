@@ -62,7 +62,7 @@ $('#typewriteText').typewrite({
       {remove: {num: 26, type: ''}},
       {type: ' Art Nourishes the Soul'},
       {delay: 1000},
-      {remove: {num: 21, type: ''}},
-      {type: 'Art Nourishes the Soul'},
+    //   {remove: {num: 21, type: ''}},
+    //   {type: 'Art Nourishes the Soul'},
     ]
   });
